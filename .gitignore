@@ -1,0 +1,5 @@
+.ipynb*
+.vscode
+__pycache__
+.DS_Store
+*.h5
